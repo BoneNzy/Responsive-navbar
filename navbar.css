@@ -1,0 +1,27 @@
+body {
+    background-color: rgba(214, 219, 246, 0.284);
+    margin: 0px;
+}
+.head {
+    justify-content: space-around;
+}
+.logo {
+    background-color: white;
+    font-size: large;
+    display: flex;
+    align-items: center;
+    margin: 5px;
+    z-index: 1000;
+}
+.lg {
+    letter-spacing: 3px;
+    margin: 0px 5px;
+}
+.list {
+    font-size: medium;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 10px 15px;
+    list-style-type: none;
+    letter-spacing: 4px;
+}
+
